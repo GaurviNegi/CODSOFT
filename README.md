@@ -12,6 +12,7 @@ folder- wordCounter/application
 
 # Task 4 - ATM interface
 it containes three classes in a file :
-  RunATM  as public main class
-  AccountClass for making accounts
+  RunATM  as public main class, 
+  AccountClass for making accounts, 
   ATMClass for performing methods of transferring money ,withdrawing, deposit and inquire
+filename- RunATM.java
